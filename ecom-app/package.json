@@ -1,0 +1,15 @@
+{
+  "name": "ecom-app",
+  "version": "1.0.0",
+  "description": "Ecom app APIS",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Anshu Rai",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
